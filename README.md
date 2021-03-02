@@ -15,7 +15,7 @@
 
 Project undertaken during the full stack engineer path on Codecademy.
 This is my own responsive nav bar.\
-Check the live demo [here](https://brandaspt.github.io/business-site/).
+Check the live demo [here](https://brandaspt.github.io/responsive-nav-bar/).
 
 ## Technologies
 
@@ -29,7 +29,6 @@ Implemented:
 
 -   Full responsiveness - both nav bar and body
 -   Flexbox usage
--   Grid usage
 
 To-do:
 
@@ -38,7 +37,7 @@ To-do:
 
 ## Status
 
-This project will always be in progress and I will improve it the more I learn about web development.
+Finished
 
 ## Inspiration
 
