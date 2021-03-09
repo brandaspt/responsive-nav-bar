@@ -94,7 +94,21 @@ button {
   transform: translateY(-9px) rotate(-45deg);
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) and (orientation: portrait) {
+  .top-nav-links {
+    display: none;
+  }
+
+  .top-nav-burger {
+    display: block;
+  }
+
+  .close-button {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) and (orientation: landscape) {
   .top-nav-links {
     display: none;
   }
